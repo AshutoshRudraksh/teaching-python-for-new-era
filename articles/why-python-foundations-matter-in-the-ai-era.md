@@ -1,6 +1,5 @@
 # Why Learning Python Matters More in the Age of AI
 
-*A short reading for Vineet, after Lesson 1*
 
 You may have heard this question already, maybe from a friend, maybe from the internet: if AI can write code now, why should a beginner learn Python at all?
 
@@ -53,4 +52,4 @@ Do the Lesson 1 exercises before the next lesson, two a day. They are small on p
 
 That is the whole game. You have already started.
 
-*Ashutosh, for Python for the New Era*
+*Happy Learning Python for the New Era*
