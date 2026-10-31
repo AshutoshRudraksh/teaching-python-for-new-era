@@ -13,6 +13,11 @@ Built for Vineet, a healthcare professional learning Python from zero for his we
 
 Open any notebook in Google Colab: go to [colab.research.google.com](https://colab.research.google.com), choose GitHub, and search for this repository. Or use the Open in Colab links inside each lesson plan.
 
+## Practice and reading
+
+- Lesson 1 exercises, eight small challenges in Colab form: [exercises/lesson-01-exercises.ipynb](exercises/lesson-01-exercises.ipynb)
+- Reading: [Why Learning Python Matters More in the Age of AI](articles/why-python-foundations-matter-in-the-ai-era.md), a short article on what foundations buy you when AI writes code
+
 ## How each lesson works
 
 1. Predict before you run. Say what the code will print, then run it and check.
